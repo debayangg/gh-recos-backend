@@ -1,0 +1,7 @@
+fastapi[standard]
+pydantic
+numpy
+scikit-learn
+sentence-transformers
+python-dotenv
+requests
